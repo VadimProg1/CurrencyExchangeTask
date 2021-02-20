@@ -8,3 +8,13 @@ C:\Users\Вадим\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\Cur
 C:\Users\Вадим\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
 C:\Users\Вадим\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.exe
 C:\Users\Вадим\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.Form1.resources
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.Properties.Resources.resources
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\Вадим\source\repos\CurrencyExchangeTask\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
